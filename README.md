@@ -1,2 +1,3 @@
-# understanding-lcs
-理解最长公共子序列算法。Understanding Longest Common Subsequence algorithm.
+# 理解 LCS
+
+详细介绍见[我的博客](https://alanlee.fun/2020/04/07/understanding-lcs/)。
